@@ -1,5 +1,5 @@
 # VRP-GUI
-My discord: https://discord.gg/e9kB9e7
+My discord: https://discord.gg/AE8NgSD
 
 VRP PHONE GUI UI
 
